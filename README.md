@@ -3,7 +3,7 @@ Sequence-to-Structure Prediction for RNA Molecules
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-[![Template Modeling Score Optimized](https://img.shields.io/badge/Optimized--for-TM%20Score-yellowgreen?style=for-the-badge)](https://www.kaggle.com/code/metric/ribonanza-tm-score)
+[![Template Modeling Score Optimized](https://img.shields.io/badge/Metric-TM%20Score-yellowgreen?style=for-the-badge)](https://www.kaggle.com/code/metric/ribonanza-tm-score)
 ![Solo](https://img.shields.io/badge/Participation%3A%20Solo-orange?style=for-the-badge)
 
 ### Project Duration: Apr 25, 2025 - Present
